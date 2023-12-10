@@ -1,0 +1,26 @@
+This sales report document provides insights into the sales data based on different payment modes, including online and offline transactions.
+
+Step 1: Import Data
+Step 2: Transform and Clean Data
+            Clean and transform your data:
+            Remove unnecessary columns.
+            Handle missing values.
+            Format data types.
+            Rename columns for clarity.
+            Add calculated columns if needed.
+Step 3:Create Relationships
+            Go to the "Relationships" view.
+            Define relationships between related tables based on common keys.
+Step 4:Build Data Model
+            Go back to the main Power BI Desktop window.
+            Design your data model, dragging and dropping fields to create tables and relationships.
+Step 5: Create Visualizations
+            Go to the "Visualizations" pane.
+            Drag and drop fields onto the report canvas to create visualizations using tables, different chart.
+            Customize visualizations using formatting options in the "Visualizations" pane.
+Step 6:Publish to Power BI Service (Optional)
+            Save your Power BI Desktop file.
+            Publish the report to the Power BI service for online sharing and collaboration.
+Step 7:Monitor and Iterate
+            Monitor report usage and performance in the Power BI service.
+            Gather feedback and make improvements to the report as needed.
