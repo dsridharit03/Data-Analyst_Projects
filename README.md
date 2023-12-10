@@ -1,5 +1,4 @@
 # Data-Analyst_Projects
-This sales report document provides insights into the sales data based on different payment modes, including online and offline transactions.
 
 A data analyst collects, cleans, and interprets data sets in order to answer a question or solve a problem
 
